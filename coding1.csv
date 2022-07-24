@@ -1,0 +1,16 @@
+,Index,Coding Question #,Question Type,Question Text,Answer Value,Facebook (2018 archive),reverbnation.com,washingtonpost.com,Cnn.com,Google (2018 archive),Netflix.com,Instagram.com,Google.com,Youtube.com,Microsoft.com,foursquare.com,ironhorsevineyards.com,Yahoo.com
+0,0,coding1_q0,First Party Collection,Does the company collect data for it's own use?,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,0,coding1_q0,First Party Collection,Does the company collect data for it's own use?,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2,1,coding1_q1,Third Party Collection,Does the company share data with third parties?,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,coding1_q1,Third Party Collection,Does the company share data with third parties?,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,2,coding1_q2,User Choice,Does the company give users an option to not share data?,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,2,coding1_q2,User Choice,Does the company give users an option to not share data?,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,3,coding1_q3,Data Security,Does the company conform to a data standard?,HIPAA,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,3,coding1_q3,Data Security,Does the company conform to a data standard?,ISO270001,0,0,0,0,1,0,0,0,0,0,0,0,0
+8,3,coding1_q3,Data Security,Does the company conform to a data standard?,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,3,coding1_q3,Data Security,Does the company conform to a data standard?,SOCII,0,0,0,0,1,0,0,0,1,0,0,0,0
+10,4,coding1_q4,Policy Change Notification,Does the company have to notify users on a policy change?,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,4,coding1_q4,Policy Change Notification,Does the company have to notify users on a policy change?,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,5,coding1_q5,User Visibility,How much agency does a user have?,View,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,5,coding1_q5,User Visibility,How much agency does a user have?,Edit,0,0,0,0,0,0,0,1,0,0,0,0,0
+14,5,coding1_q5,User Visibility,How much agency does a user have?,None,0,0,0,0,0,0,0,0,0,0,0,0,0
