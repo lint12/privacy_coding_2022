@@ -1,219 +1,219 @@
 ,Question Type,coding_1,coding_2,coding_3,coding_4,coding_5,coding_6,coding_7,coding_8,coding_9,coding_10,coding_11
-0,Privacy By Design - Oversight,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-1,[ 3 ] - Collect on mobile website [The company/organization has a mobile version of its website through which it collects user information. This value is only needed if the policy explicitly distinguishes between its normal and mobile websites.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-2,User Control - Ownership,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-3,"User Access, Edit and Deletion - User Type",no,no,yes,no,no,no,no,no,no,no,no
-4,User Visibility,yes,no,no,no,no,no,no,no,no,no,no
-5,Notice - Consent and Registration,no,no,no,no,yes,no,no,no,no,no,no
-6,"[ 2 ] - opt-in, [User must consent before data can be shared with or collected/used by third party]",no,no,no,no,no,yes,no,no,yes,yes,no
-7,[ 10 ] - Other,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-8,User Control - Accuracy,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-9,Third Party Sharing/Collection - Does/Does Not,no,no,yes,no,no,no,no,no,no,no,no
-10,Sharing - Consent,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-11,"User Access, Edit and Deletion - Access Type",no,no,yes,no,no,no,no,no,no,no,no
-12,[ 1 ] - user without an account [This data practice specifically applies to users that do not have an account or are not registered with the website or mobile app.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-13,[ 6 ] - Privacy review/audit [Privacy practices and security measures of the first party or third party are reviewed/audited by internal or external reviewers/auditors],no,no,no,no,no,yes,yes,yes,yes,yes,yes
-14,Notice - Consent to Cookies,no,no,no,no,yes,no,no,no,no,no,no
-15,Notice - Action First Party ,no,no,no,no,no,yes,yes,yes,yes,yes,no
-16,Policy Change - Notification Type,no,no,yes,no,no,no,no,no,no,no,no
-17,Notice - Use of Data,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-18,"[ 4 ] - Collect from user on other websites  [This company/organization (the first party) has a widget or element on other websites, in which the user can explicitly provide data to the first party while being on the other website. For example, Facebook users can comment on news or other content on different websites and Facebook collects that data.",no,no,no,no,no,yes,yes,yes,yes,yes,no
-19,[ 0 ] - No access,no,no,no,no,no,yes,yes,yes,yes,yes,no
-20,First Party Collection/Use - Purpose,no,no,yes,no,no,no,no,no,no,no,no
-21,Enforcement  - Oversight,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+0,[ 2 ] - to comply with the law [Collected data is only stored as long as required for legal or law enforcement purposes.] [GDPR allowed],no,no,no,no,no,yes,yes,yes,yes,yes,no
+1,Privacy By Design - Oversight,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+2,Notice - Withdrawal of Consent,no,no,no,no,yes,no,no,no,no,no,no
+3,"[ 6 ] - Unspecified [The type of collection is not specified (i.e., DND) or unclear, e.g., “Our outside partners collect your personal information” without further specification whether the collection occurs on a website, app, offline, etc.",no,no,no,no,no,yes,yes,yes,yes,yes,no
+4,"[ 6 ] - Receive from other service/third-party (unnamed). [ The company/organization receives user information from an unnamed third-party (e.g., the policy just speaks of “data brokers” or ""partners"" in the abstract).]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+5,Security  - Security Measures,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+6,First Party Collection/Use - User Type,no,no,yes,no,no,no,no,no,no,no,no
+7,User Choice/Control - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
+8,User Control - Access Scope,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
+9,Policy Change - User Choice,no,no,yes,no,no,no,no,no,no,no,no
+10,"[ 5 ] - Demographic,[Demographic Information, e.g., gender, age, occupation, education, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+11,Notice of Contract- Registration and Salience,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+12,[ 4 ] - other [This data practice applies to a specific user type not covered by the options above.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+13,"User Access, Edit and Deletion - User Type",no,no,yes,no,no,no,no,no,no,no,no
+14,"[ 2 ] - Transactional data [Purchases made, online activity, products watched, comments or questions submitted]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+15,Third Party Collection,yes,no,no,no,no,no,no,no,no,no,no
+16,[ 0 ] - No (no sharing with third parties),no,no,no,no,no,yes,yes,yes,yes,yes,no
+17,CCPA- Notice,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+18,[ 0 ] - no opportunity for express consent,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+19,Notice - Type of Data Collected ,no,yes,no,no,no,no,no,no,no,no,no
+20,First Party Collection/Use - Collection Mode,no,no,yes,no,no,no,no,no,no,no,no
+21,CCPA - Data Sharing,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
 22,"[ 1 ] - Opt-out [The default is for the user to share PII with third parties, but the PP gives the user the opportunity to opt out]",no,no,no,no,no,yes,no,no,yes,yes,no
-23,"[ 1 ] - ""at our discretion"" or similar or ""may""",no,no,no,no,no,yes,yes,yes,yes,yes,no
-24,[ 0 ] - no,no,no,no,no,no,yes,yes,yes,yes,yes,no
-25,Third Party Sharing/Collection - User Type,no,no,yes,no,no,no,no,no,no,no,no
-26,[ 5 ] - First-party privacy controls (might have to go to site to check to see if collection is an option) [Website/app provides user settings for privacy configuration],no,no,no,no,no,yes,no,no,yes,yes,no
-27,Data Practices  - Retention,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-28,Security  - Security Measures,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-29,"[ 8 ] - User Profile [The user’s profile on the first-party website/app and its contents, e.g., data in user profile, data that user uploaded to website, user comments, user profile preferences, etc. This is common for websites/apps where users can create an account or profile, e.g., on twitter, youtube, Facebook, Amazon, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-30,[ 3 ] - Edit information/correct [v38] [User can modify or delete specific information],no,no,no,no,no,yes,yes,yes,yes,yes,no
-31,"[ 3 ] - analytics/research [For understanding the website/app’s audience, improving the website/app, inform company strategy, or general research]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-32,Notice,no,yes,no,yes,no,no,no,no,no,no,no
-33,CCPA - Access,no,yes,no,no,no,no,no,no,no,no,no
-34,[ . ] - n/a,no,no,no,no,no,yes,yes,yes,yes,yes,no
-35,Enforcement  - Dispute Resolution,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-36,Notice of Contract- Salience of Consent to Communications and Marketing,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-37,"[ 5 ] - See [Third-party can see user information that is publicly available either on the website/app or somewhere else. Remember, a third-party can be another user of the website/app. The difference to “receive” is that the information is available but not explicitly given to a specific third party.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-38,Notice - 3rd parties,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-39,"[ 3 ] - Track on first party website/app [The third party implicitly collects data about users directly on the first party website/app, typically without the user being aware of it, e.g., by tracking users with cookies, beacons, third party ad libraries, or other functionality.</description>]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-40,[ 0 ] - no opportunity for express consent,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-41,Notice - Change of Terms,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-42,Notice - User Type,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
-43,"[ 3 ] - Contact,[Contact Information, such as name, email address, phone number, street address, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-44,Notice - PP Accessibility on Site,no,no,no,no,yes,no,no,no,no,no,no
-45,Notice of Contract- Salience of Consent to processing personal information (PII),no,no,no,no,no,yes,yes,yes,yes,yes,yes
-46,Third Party Sharing/Collection - Third Party Entity,no,no,yes,no,no,no,no,no,no,no,no
-47,"[ 5 ] - Delete account (partial),[User can delete account, but the company/organization may continue to keep some of the user’s data]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-48,User Control - Access Scope,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
-49,Policy Change Notification,yes,no,no,no,no,no,no,no,no,no,no
-50,Data Security - Security Measure,no,no,yes,no,no,no,no,no,no,no,no
-51,"[ 4 ] - Deactivate account [User can deactivate account so that the user’s information is not visible to other users anymore, but the company/organization keeps all the data]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-52,[ 8 ] - regular data audits [GDPR] [,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-53,CCPA- Notice,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-54,[ 4 ] A description of a Consumer’s rights to: * request disclosure of information collected; * request disclosure of information sold; * nondiscrimination relating to Consumers who exercise CCPA rights; ,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-55,"[ 9 ] - IP address and device IDs [Permanent (e.g., device IDs, MAC address) or temporary (e.g., IP address) identifiers needed to establish a connection for the current browsing session]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-56,"[ 2 ] - Collect on first party website/app [The third party explicitly collects data from users on the first party website/app, e.g., by functionality on the website/app that allows users to directly provide information to the third party, such as social media sharing buttons or commenting form]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-57,Policy Change - User Choice,no,no,yes,no,no,no,no,no,no,no,no
-58,"[ 6 ] - Personal identifier [Identifiers that uniquely identify a person,e.g., SSN, driver's license number, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-59,[ 10 ] - Other [Other specific purpose not covered above],no,no,no,no,no,yes,yes,yes,yes,yes,no
-60,User Control -Types of Access,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
-61,[ 7 ] - other,no,no,no,no,no,yes,yes,yes,yes,yes,no
-62,Third Party Sharing/Collection - Identifiability,no,no,yes,no,no,no,no,no,no,no,no
-63,[ 5 ] - Privacy training [he company/organization trains its employees/third parties in applicable privacy and security practices to protect user data.],no,no,no,no,no,yes,yes,yes,yes,yes,yes
-64,[ . ] - N/A,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-65,Enforcement  - Liability,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-66,Notice - Use of Data/Collection/Choice,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
-67,User Choice/Control - Choice Scope,no,no,yes,no,no,no,no,no,no,no,no
-68,placeholder,no,no,no,no,yes,no,yes,yes,no,no,no
-69,[ 0 ] - No collection [this answer should be selected when the firm does not collect any personal information],no,no,no,no,no,yes,yes,yes,yes,yes,no
-70,[ 2 ] - for material terms,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-71,[ 14 ] - Biometric information,no,no,no,no,no,yes,yes,yes,yes,yes,no
-72,[ 0 ] - no notice,no,no,no,no,no,yes,yes,yes,yes,yes,no
-73,"[ 2 ] - Health, [Health Information, such as information about health conditions, prescriptions, medication, as well as health monitoring data, e.g., heart rate, step count, activity level, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-74,"[ 3 ] - email, notification upon signing into account, or other specific method likely to alert user",no,no,no,no,no,yes,yes,yes,yes,yes,no
-75,"[ 7 ] - Other[An access, edit, or delete option not covered above.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-76,Notice - Type of Data Collected,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-77,[ 5 ] - advertising [To show ads that are either targeted to the specific user or not targeted],no,no,no,no,no,yes,yes,yes,yes,yes,no
-78,Notice - Consent to processing personal information (PII),no,no,no,no,yes,no,no,no,no,no,no
-79,Enforcement,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-80,"[ 7 ] - Browser/device privacy controls (if the PP specifies this as an option the user can adopt)[Policy suggests the use of browser’s or mobile device’s privacy settings, e.g., to block trackers or cookies, activate Do-Not-Track, disable location sharing, clear history, etc.]",no,no,no,no,no,yes,no,no,yes,yes,no
-81,"[ 5 ] - Analytics/Research,[For understanding the website/app’s audience, improving the website/app, inform company strategy, or general research]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-82,[ 12 ] - Survey data [Any data that is collected through surveys],no,no,no,no,no,yes,yes,yes,yes,yes,no
-83,[ 8 ] - other [The specified type of collection is not covered by the options here],no,no,no,no,no,yes,yes,yes,yes,yes,no
-84,"[ 8 ] - Legal requirement [For compliance with legal obligations, e.g., regulations, government data requests, government retention requests, law enforcement requests in general, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-85,"[ 8 ] - Other, [Other specific user choice or control option not captured above.]",no,no,no,no,no,yes,no,no,yes,yes,no
-86,[ 1 ] - perform service/functionality [collected user information is only stored as long as it is needed to perform the requested service.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-87,[ 0 ] - No (no sharing with third parties),no,no,no,no,no,yes,yes,yes,yes,yes,no
-88,Sharing - privacy practices,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-89,"[ 6 ] - Personalization/Customization, [For providing user with a personalized experience, e.g., by allowing to arrange how the website/app looks, based on the user’s preferences or language, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-90,First Party Collection/Use - User Type,no,no,yes,no,no,no,no,no,no,no,no
-91,User Control - User Control,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-92,Data Retention - Retention Purpose,no,no,yes,no,no,no,no,no,no,no,no
-93,[ 3 ] - all users regardless of subscription (or at least some non subscribers) [Use this attribute if the practice applies specifically to users with or without an account],no,no,no,no,no,yes,yes,yes,yes,yes,no
-94,[ 4 ] - Other [How the third party collects or receives user information is specified in the policy but it is not covered by the options above],no,no,no,no,no,yes,yes,yes,yes,yes,no
-95,User Choice,yes,no,no,no,no,no,no,no,no,no,no
-96,Enforcement ,no,yes,no,no,no,no,no,no,no,no,no
-97,GDPR-Automated Processes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-98,CCPA - Opt Out,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-99,Notice - Consent to Communications and Marketing,no,no,no,no,yes,no,no,no,no,no,no
-100,PP describe new rights afforded California residen...,no,yes,no,no,no,no,no,no,no,no,no
-101,"[ 4 ] - service operation and security [For website/app operation and security, enforcement of terms of service, fraud prevention, protecting users and property, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-102,User Control  - Termination,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-103,User Choice/Control - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
-104,User Choice/Control - Purpose,no,no,yes,no,no,no,no,no,no,no,no
-105,Third Party Sharing/Collection - Purpose,no,no,yes,no,no,no,no,no,no,no,no
-106,"[ 6 ] - Receive from other service/third-party (unnamed). [ The company/organization receives user information from an unnamed third-party (e.g., the policy just speaks of “data brokers” or ""partners"" in the abstract).]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-107,[ 2 ] - Export (portability) [GDPR required] [Users can export their information to other services or download it to own computer.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-108,"[ 4 ] - Location, including bluetooth [Geo-location information (e.g., user's current location) regardless of granularity, i.e., could be exact location, ZIP code, city-level.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-109,First Party Collection/Use - Action First-Party,no,no,yes,no,no,no,no,no,no,no,no
-110,First Party Collection/Use - Collection Mode,no,no,yes,no,no,no,no,no,no,no,no
-111,Sharing - 3rd Parties  ,no,yes,no,no,no,no,no,no,no,no,no
-112,Data Security,yes,no,no,no,no,no,no,no,no,no,no
-113,"[ 6 ] - Unspecified [The type of collection is not specified (i.e., DND) or unclear, e.g., “Our outside partners collect your personal information” without further specification whether the collection occurs on a website, app, offline, etc.",no,no,no,no,no,yes,yes,yes,yes,yes,no
-114,"[ 6 ] - Delete account (full), [User can delete account and all of the user’s information is removed from company/organization’s servers/databases]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-115,Notice - Withdrawal of Consent,no,no,no,no,yes,no,no,no,no,no,no
-116,"[ 0 ] - Don't use service/feature (i.e., user must stop using service, terminate account, leave page)/mandatory [Only option is not to use the feature or service. Only select this if explicitly stated in policy (i.e., don't interpret silence as """"Don't use website or feature""]",no,no,no,no,no,yes,no,no,yes,yes,no
-117,"[ 1 ] - Received/Shared with by firm/first party [The third party receives information from the first party. (i.e., the first party explicitly shares data with third-party]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-118,[ 1 ] - Collect on website [The company/organization collects user information directly on the website.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-119,Other - Other Type,no,no,yes,no,no,no,no,no,no,no,no
-120,"[ 3 ] - Secure data storage [Data is stored securely, e.g. in an encrypted format or database]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-121,User Choice/Control - User Type,no,no,yes,no,no,no,no,no,no,no,no
-122,[ 4 ] - other [This data practice applies to a specific user type not covered by the options above.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-123,First Party Collection/Use - Choice Scope,no,no,yes,no,no,no,no,no,no,no,no
-124,Security  - Accuracy,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-125,[ 4 ] - other,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-126,Notice of Contract - Consent and Registration,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-127,"[ 7 ] - Receive from other service/third-party (named) [The company/organization acquires user information from a third party that is explicitly named (e.g., Facebook when the user signs in using Facebook account; or a specific ""partner"")]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-128,CCPA- Disclosures,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-129,"[ 6 ] - Third-party privacy controls, [Choices provided by a third party (e.g., privacy settings on social media site, if logged in through social media site) or industry (e.g., AdChoices Opt-out)]",no,no,no,no,no,yes,no,no,yes,yes,no
-130,"[ 7 ] - Privacy/Security program, [The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-131,Do Not Track,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
-132,GDPR,no,no,no,no,no,no,no,no,no,no,yes
-133,Third Party Sharing/Collection - Choice Scope,no,no,yes,no,no,no,no,no,no,no,no
-134,Notice - Use of Data First Party,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
-135,"[ 9 ] - Track user on other websites [The company/organization tracks its users’ activities when they visit other websites, typically without the user being aware of it.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-136,"[ 10 ] - Cookies and tracking elements [Identifiers locally stored on user's device by website or third-parties including cookies, beacons, or similar that are commonly used to uniquely identify users, but that are not essential to establish a connection with the user’s device or to provide a service.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-137,"[ 0 ] - None,",no,no,no,no,no,yes,yes,yes,yes,yes,no
-138,CCPA - Notice,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-139,"[ 3 ] - Opt-out link [Link provided in privacy policy, on website, in mobile app, or in email, etc.]",no,no,no,no,no,yes,no,no,yes,yes,no
-140,Notice - Registration and Salience,no,no,no,no,yes,no,no,no,no,no,no
-141,[ 5 ] - data shared with third parties ,no,no,no,no,no,yes,yes,yes,yes,yes,no
-142,"[ 1 ] - Secure data transfer [Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-143,First Party Collection/Use - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
-144,"[ 11 ] - Generic/ No specifics [The policy makes generic security statements, e.g., “we protect your data” or “we use technology/encryption to protect your data"" without any specifics.]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-145,"[ 1 ] - User account data [Information explicitly provided by the user, such as contact,  demographic, and any other explicitly provided information that is part of the user’s profile/account. This includes user preferences and settings]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-146,[ 15 ] - Other [state in comments],no,no,no,no,no,yes,yes,yes,yes,yes,no
-147,[ 2 ] - to comply with the law [Collected data is only stored as long as required for legal or law enforcement purposes.] [GDPR allowed],no,no,no,no,no,yes,yes,yes,yes,yes,no
-148,Contract - Contract,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-149,First Party Collection/Use - Does/Does Not,no,no,yes,no,no,no,no,no,no,no,no
-150,Sharing - 3rd Parties,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-151,International and Specific Audiences - Audience Type,no,no,yes,no,no,no,no,no,no,no,no
-152,CCPA - Stats,no,yes,no,no,no,no,no,no,no,no,no
-153,[ 3 ] - for any changes,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-154,"[ 3 ] a list of categories (by reference to the CCPA enumerated category) of information the Business has disclosed for a business purpose,  within the preceding 12 months or, if the Business has not done so, disclosing that fact.",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-155,"[ 3 ] - Profile data,[Information that the company has learned about user, even if the user did not explicitly provided it]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-156,[ 6 ] - Other,no,no,no,no,no,yes,yes,yes,yes,yes,no
-157,[ 9 ] - conducting regular data protection impact assessments [GDPR],no,no,no,no,no,yes,yes,yes,yes,yes,yes
-158,"[ 5 ] - Demographic,[Demographic Information, e.g., gender, age, occupation, education, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-159,Policy Change - Change Type,no,no,yes,no,no,no,no,no,no,no,no
-160,"[ 6 ] - marketing [To contact the user to offer products, services, or other promotions (e.g., send marketing emails, calling or texting user with marketing messages). Marketing typically requires the use of contact information.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-161,"[ 1 ] - Financial,[Financial information, such as credit/debit card data, other payment information, credit scores, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-162,CCPA - Data Choices,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-163,Notice - third parties,no,yes,no,no,no,no,no,no,no,no,no
-164,Notice - Action First Party,no,no,no,yes,yes,no,no,no,no,no,no
-165,Data Retention - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
-166,[ 2 ] - Collect in mobile app [The company/organization has a mobile app and it collects user information through that platform.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-167,Notice of Contract - PP Accessibility on Site,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-168,Notice - Consent,no,no,no,yes,no,no,no,no,no,no,no
-169,Notice of Contract- Registration and Salience,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-170,[ 0 ] - no collection,no,no,no,no,no,yes,yes,yes,yes,yes,no
-171,Third Party Sharing/Collection - Choice Type,no,no,yes,no,no,no,no,no,no,no,no
-172,"[ 2 ] - Additional service/feature  [Provide a service that the user explicitly requests but that is not a necessary part of the website/app's basic service. Additional services/features may enhance user experience or add convenience but require additional data, e.g., social media integration, comments, blog participation, a store finder that needs location information, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-173,"[ 5 ] - Receive from other parts of company/affiliates [The company/organization is part of a family of companies/organizations or has subsidiaries (e.g., physical store, other websites that belong to same company). It receives user information from those other units.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-174,Security  - Enforcement,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-175,[ 2 ] - user with an account [This data practice specifically applies to users with an account or who are registered with the website or mobile app.],no,no,no,no,no,yes,yes,yes,yes,yes,no
-176,COVID ,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
-177,First Party Collection/Use - Identifiability,no,no,yes,no,no,no,no,no,no,no,no
-178,"[ 1 ] - Basic service/ feature [Provide a service that the user explicitly requests and that is part of the website/app's basic service or functionality. Examples are watching a video, reading an article, making a purchase, creating an account, contacting the company/organization, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-179,User Choice/Control - Choice Type,no,no,yes,no,no,no,no,no,no,no,no
-180,"[ 13 ] - Generic personal information [No specific type of information is mentioned, but the policy talks about “personal information” or “personal identifiable information” in general.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-181,"[ 2 ] - Transactional data [Purchases made, online activity, products watched, comments or questions submitted]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-182,First Party Collection/Use - Choice Type,no,no,yes,no,no,no,no,no,no,no,no
-183,[ 1 ] - when using consumer data in a materially different manner than claimed when the data was collected (FTC 2012 guidelines),no,no,no,no,no,yes,yes,yes,yes,yes,yes
-184,Notice of Contract - Salience of Consent to Cookies,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-185,[ 9 ] - Merger/Acquisition [If company/organization merges or is acquired it transfers users' information to another company/organization--Note: this variable is satisfied if the firm states that it will share the personal information in case it gets bought or merges with another firm],no,no,no,no,no,yes,yes,yes,yes,yes,no
-186,First Party Collection,yes,no,no,no,no,no,no,no,no,no,no
-187,Third Party Sharing/Collection - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
-188,GDPR - Notice,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-189,Data Retention - Retention Period,no,no,yes,no,no,no,no,no,no,no,no
-190,[ 5 ] unspecified [it doesn't specify whether this practice applies to users with or without an account],no,no,no,no,no,yes,yes,yes,yes,yes,no
-191,Security  - Privacy by Design,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-192,Notice - Access,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-193,Notice - Type of Data Collected ,no,yes,no,no,no,no,no,no,no,no,no
-194,[ 1 ] a list of the categories of personal information collected by the business in the past 12 months,no,no,no,no,no,yes,yes,yes,yes,yes,yes
-195,"[ 11 ] - Computer information [The type of operating system (OS) or web browser that the user uses, or similar computer or device information]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-196,Security - Accuracy,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-197,Third Party Sharing/Collection - Action Third Party,no,no,yes,no,no,no,no,no,no,no,no
-198,"User Access, Edit and Deletion - Access Scope",no,no,yes,no,no,no,no,no,no,no,no
-199,"[ 4 ] - Marketing [To contact the user to offer products,services, or other promotions (e.g., send marketing emails, calling or texting user with marketing messages). Marketing typically requires the use of contact information]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-200,Do Not Track - Do Not Track policy,no,no,yes,no,no,no,no,no,no,no,no
-201,Third Party Collection,yes,no,no,no,no,no,no,no,no,no,no
-202,CCPA - Data Sharing,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-203,"[ 4 ] - Data access limitation (""access controls"" under GDPR) [Data is accessible to employees/third parties on a need-to-know basis]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-204,"[ 16 ] - Social Media Data [User profile and data from a social media website/app or other third party service to which the user gave the first party access, e.g., by connecting with Facebook, twitter, or other services. Exchanged data may include user profile, photos, comments, friends, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-205,[ 2 ] - link on homepage or notice+link on homepage,no,no,no,no,no,yes,yes,yes,yes,yes,no
-206,"[ 7 ] - Service Operation and Security [For website/app operation and security, enforcement of terms of service, fraud prevention, protecting users and property, et]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-207,Security  - Notice,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-208,"[ 1 ] - View [Users can access their information, but not edit or delete it]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-209,[ 3 ] - Advertising [To show ads that are either targeted to the specific user or not targeted],no,no,no,no,no,yes,yes,yes,yes,yes,no
-210,Sharing - 3rd parties,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no
-211,"[ 2 ] a list of categories of information the Business has (i) sold or within the preceding 12 months or, if the Business has not",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-212,Notice - Withdrawal of Consent (GDPR),no,no,no,no,no,yes,yes,yes,yes,yes,yes
-213,"[ 7 ] - User online activities [The user's online activities on the first party website/app or other websites/apps, e.g., pages visited, time spent on pages, general user behavior online, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
-214,User Control - Termination,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
-215,"[ 4 ] - Opt-out via contacting company, [Must contact company/organization via email, phone, postal mail to opt-out]",no,no,no,no,no,yes,no,no,yes,yes,no
-216,"[ 2 ] - Secure user authentication [User authentication, e.g., login to a user account, is encrypted/secured]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
-217,"[ 4 ] - Other data about user,[Other information that the company/organization has learned about the user, e.g., inferred preferences, data from other third parties, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+23,"[ 5 ] - Analytics/Research,[For understanding the website/app’s audience, improving the website/app, inform company strategy, or general research]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+24,"[ 1 ] - ""at our discretion"" or similar or ""may""",no,no,no,no,no,yes,yes,yes,yes,yes,no
+25,Data Security,yes,no,no,no,no,no,no,no,no,no,no
+26,[ 4 ] - other,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+27,Sharing - privacy practices,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+28,Enforcement  - Dispute Resolution,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+29,User Choice,yes,no,no,no,no,no,no,no,no,no,no
+30,[ 5 ] - First-party privacy controls (might have to go to site to check to see if collection is an option) [Website/app provides user settings for privacy configuration],no,no,no,no,no,yes,no,no,yes,yes,no
+31,"[ 1 ] - View [Users can access their information, but not edit or delete it]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+32,Other - Other Type,no,no,yes,no,no,no,no,no,no,no,no
+33,"[ 4 ] - Deactivate account [User can deactivate account so that the user’s information is not visible to other users anymore, but the company/organization keeps all the data]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+34,"[ 2 ] - Collect on first party website/app [The third party explicitly collects data from users on the first party website/app, e.g., by functionality on the website/app that allows users to directly provide information to the third party, such as social media sharing buttons or commenting form]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+35,[ . ] - N/A,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+36,[ 1 ] - when using consumer data in a materially different manner than claimed when the data was collected (FTC 2012 guidelines),no,no,no,no,no,yes,yes,yes,yes,yes,yes
+37,Security  - Privacy by Design,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+38,Sharing - 3rd Parties  ,no,yes,no,no,no,no,no,no,no,no,no
+39,CCPA- Disclosures,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+40,Notice - Consent and Registration,no,no,no,no,yes,no,no,no,no,no,no
+41,[ 4 ] - Other [How the third party collects or receives user information is specified in the policy but it is not covered by the options above],no,no,no,no,no,yes,yes,yes,yes,yes,no
+42,placeholder,no,no,no,no,yes,no,yes,yes,no,no,no
+43,"[ 6 ] - Personalization/Customization, [For providing user with a personalized experience, e.g., by allowing to arrange how the website/app looks, based on the user’s preferences or language, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+44,Enforcement,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+45,CCPA - Opt Out,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+46,"[ 4 ] - Other data about user,[Other information that the company/organization has learned about the user, e.g., inferred preferences, data from other third parties, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+47,"[ 4 ] - service operation and security [For website/app operation and security, enforcement of terms of service, fraud prevention, protecting users and property, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+48,[ 1 ] - Collect on website [The company/organization collects user information directly on the website.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+49,[ 15 ] - Other [state in comments],no,no,no,no,no,yes,yes,yes,yes,yes,no
+50,"[ 2 ] - Health, [Health Information, such as information about health conditions, prescriptions, medication, as well as health monitoring data, e.g., heart rate, step count, activity level, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+51,Sharing - 3rd parties,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no
+52,First Party Collection/Use - Choice Scope,no,no,yes,no,no,no,no,no,no,no,no
+53,"[ 3 ] - email, notification upon signing into account, or other specific method likely to alert user",no,no,no,no,no,yes,yes,yes,yes,yes,no
+54,[ 10 ] - Other [Other specific purpose not covered above],no,no,no,no,no,yes,yes,yes,yes,yes,no
+55,CCPA - Stats,no,yes,no,no,no,no,no,no,no,no,no
+56,[ 2 ] - link on homepage or notice+link on homepage,no,no,no,no,no,yes,yes,yes,yes,yes,no
+57,Data Retention - Retention Purpose,no,no,yes,no,no,no,no,no,no,no,no
+58,Third Party Sharing/Collection - Third Party Entity,no,no,yes,no,no,no,no,no,no,no,no
+59,[ 0 ] - No access,no,no,no,no,no,yes,yes,yes,yes,yes,no
+60,"[ 6 ] - marketing [To contact the user to offer products, services, or other promotions (e.g., send marketing emails, calling or texting user with marketing messages). Marketing typically requires the use of contact information.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+61,[ 5 ] unspecified [it doesn't specify whether this practice applies to users with or without an account],no,no,no,no,no,yes,yes,yes,yes,yes,no
+62,Notice of Contract - Salience of Consent to Cookies,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+63,"[ 3 ] - Secure data storage [Data is stored securely, e.g. in an encrypted format or database]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+64,Do Not Track,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
+65,"[ 8 ] - Other, [Other specific user choice or control option not captured above.]",no,no,no,no,no,yes,no,no,yes,yes,no
+66,"[ 1 ] - Secure data transfer [Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+67,"[ 0 ] - None,",no,no,no,no,no,yes,yes,yes,yes,yes,no
+68,[ 3 ] - Edit information/correct [v38] [User can modify or delete specific information],no,no,no,no,no,yes,yes,yes,yes,yes,no
+69,"[ 11 ] - Computer information [The type of operating system (OS) or web browser that the user uses, or similar computer or device information]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+70,"[ 13 ] - Generic personal information [No specific type of information is mentioned, but the policy talks about “personal information” or “personal identifiable information” in general.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+71,Notice - Type of Data Collected,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+72,"[ 1 ] - User account data [Information explicitly provided by the user, such as contact,  demographic, and any other explicitly provided information that is part of the user’s profile/account. This includes user preferences and settings]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+73,"[ 2 ] a list of categories of information the Business has (i) sold or within the preceding 12 months or, if the Business has not",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+74,Notice - Withdrawal of Consent (GDPR),no,no,no,no,no,yes,yes,yes,yes,yes,yes
+75,Security  - Accuracy,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+76,Notice of Contract- Salience of Consent to Communications and Marketing,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+77,[ 1 ] a list of the categories of personal information collected by the business in the past 12 months,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+78,"[ 10 ] - Cookies and tracking elements [Identifiers locally stored on user's device by website or third-parties including cookies, beacons, or similar that are commonly used to uniquely identify users, but that are not essential to establish a connection with the user’s device or to provide a service.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+79,Data Practices  - Retention,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+80,User Control  - Termination,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+81,"[ 5 ] - Delete account (partial),[User can delete account, but the company/organization may continue to keep some of the user’s data]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+82,Notice - Consent to Cookies,no,no,no,no,yes,no,no,no,no,no,no
+83,"[ 9 ] - IP address and device IDs [Permanent (e.g., device IDs, MAC address) or temporary (e.g., IP address) identifiers needed to establish a connection for the current browsing session]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+84,[ 8 ] - other [The specified type of collection is not covered by the options here],no,no,no,no,no,yes,yes,yes,yes,yes,no
+85,Notice of Contract - Consent and Registration,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+86,[ 2 ] - Collect in mobile app [The company/organization has a mobile app and it collects user information through that platform.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+87,[ 2 ] - Export (portability) [GDPR required] [Users can export their information to other services or download it to own computer.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+88,[ 8 ] - regular data audits [GDPR] [,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+89,"[ 4 ] - Collect from user on other websites  [This company/organization (the first party) has a widget or element on other websites, in which the user can explicitly provide data to the first party while being on the other website. For example, Facebook users can comment on news or other content on different websites and Facebook collects that data.",no,no,no,no,no,yes,yes,yes,yes,yes,no
+90,"[ 2 ] - Additional service/feature  [Provide a service that the user explicitly requests but that is not a necessary part of the website/app's basic service. Additional services/features may enhance user experience or add convenience but require additional data, e.g., social media integration, comments, blog participation, a store finder that needs location information, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+91,"[ 8 ] - Legal requirement [For compliance with legal obligations, e.g., regulations, government data requests, government retention requests, law enforcement requests in general, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+92,[ 9 ] - Merger/Acquisition [If company/organization merges or is acquired it transfers users' information to another company/organization--Note: this variable is satisfied if the firm states that it will share the personal information in case it gets bought or merges with another firm],no,no,no,no,no,yes,yes,yes,yes,yes,no
+93,First Party Collection/Use - Action First-Party,no,no,yes,no,no,no,no,no,no,no,no
+94,[ 0 ] - no collection,no,no,no,no,no,yes,yes,yes,yes,yes,no
+95,"[ 6 ] - Delete account (full), [User can delete account and all of the user’s information is removed from company/organization’s servers/databases]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+96,"[ 4 ] - Data access limitation (""access controls"" under GDPR) [Data is accessible to employees/third parties on a need-to-know basis]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+97,Notice - Use of Data/Collection/Choice,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
+98,"[ 3 ] - analytics/research [For understanding the website/app’s audience, improving the website/app, inform company strategy, or general research]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+99,Notice - Consent to processing personal information (PII),no,no,no,no,yes,no,no,no,no,no,no
+100,[ 1 ] - user without an account [This data practice specifically applies to users that do not have an account or are not registered with the website or mobile app.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+101,[ 5 ] - advertising [To show ads that are either targeted to the specific user or not targeted],no,no,no,no,no,yes,yes,yes,yes,yes,no
+102,"[ 2 ] - opt-in, [User must consent before data can be shared with or collected/used by third party]",no,no,no,no,no,yes,no,no,yes,yes,no
+103,[ 6 ] - Privacy review/audit [Privacy practices and security measures of the first party or third party are reviewed/audited by internal or external reviewers/auditors],no,no,no,no,no,yes,yes,yes,yes,yes,yes
+104,User Control - User Control,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+105,Notice - User Type,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
+106,User Choice/Control - Purpose,no,no,yes,no,no,no,no,no,no,no,no
+107,Security - Accuracy,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+108,"[ 7 ] - Receive from other service/third-party (named) [The company/organization acquires user information from a third party that is explicitly named (e.g., Facebook when the user signs in using Facebook account; or a specific ""partner"")]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+109,Enforcement  - Oversight,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+110,GDPR - Notice,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+111,"[ 5 ] - Receive from other parts of company/affiliates [The company/organization is part of a family of companies/organizations or has subsidiaries (e.g., physical store, other websites that belong to same company). It receives user information from those other units.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+112,[ 5 ] - data shared with third parties ,no,no,no,no,no,yes,yes,yes,yes,yes,no
+113,Third Party Sharing/Collection - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
+114,Third Party Sharing/Collection - Choice Scope,no,no,yes,no,no,no,no,no,no,no,no
+115,User Choice/Control - Choice Type,no,no,yes,no,no,no,no,no,no,no,no
+116,Notice - Action First Party ,no,no,no,no,no,yes,yes,yes,yes,yes,no
+117,"[ 1 ] - Financial,[Financial information, such as credit/debit card data, other payment information, credit scores, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+118,[ 12 ] - Survey data [Any data that is collected through surveys],no,no,no,no,no,yes,yes,yes,yes,yes,no
+119,[ 10 ] - Other,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+120,Notice - Consent to Communications and Marketing,no,no,no,no,yes,no,no,no,no,no,no
+121,User Control - Termination,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+122,"[ 5 ] - See [Third-party can see user information that is publicly available either on the website/app or somewhere else. Remember, a third-party can be another user of the website/app. The difference to “receive” is that the information is available but not explicitly given to a specific third party.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+123,"[ 2 ] - Secure user authentication [User authentication, e.g., login to a user account, is encrypted/secured]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+124,[ 0 ] - No collection [this answer should be selected when the firm does not collect any personal information],no,no,no,no,no,yes,yes,yes,yes,yes,no
+125,Security  - Enforcement,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+126,User Control - Ownership,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+127,Notice - PP Accessibility on Site,no,no,no,no,yes,no,no,no,no,no,no
+128,[ 6 ] - Other,no,no,no,no,no,yes,yes,yes,yes,yes,no
+129,"[ 9 ] - Track user on other websites [The company/organization tracks its users’ activities when they visit other websites, typically without the user being aware of it.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+130,GDPR,no,no,no,no,no,no,no,no,no,no,yes
+131,Third Party Sharing/Collection - Choice Type,no,no,yes,no,no,no,no,no,no,no,no
+132,Data Security - Security Measure,no,no,yes,no,no,no,no,no,no,no,no
+133,International and Specific Audiences - Audience Type,no,no,yes,no,no,no,no,no,no,no,no
+134,"[ 11 ] - Generic/ No specifics [The policy makes generic security statements, e.g., “we protect your data” or “we use technology/encryption to protect your data"" without any specifics.]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+135,Notice of Contract- Salience of Consent to processing personal information (PII),no,no,no,no,no,yes,yes,yes,yes,yes,yes
+136,[ 3 ] - Collect on mobile website [The company/organization has a mobile version of its website through which it collects user information. This value is only needed if the policy explicitly distinguishes between its normal and mobile websites.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+137,"[ 3 ] - Contact,[Contact Information, such as name, email address, phone number, street address, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+138,Notice - Access,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+139,CCPA - Access,no,yes,no,no,no,no,no,no,no,no,no
+140,Data Retention - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
+141,Third Party Sharing/Collection - Purpose,no,no,yes,no,no,no,no,no,no,no,no
+142,[ 3 ] - all users regardless of subscription (or at least some non subscribers) [Use this attribute if the practice applies specifically to users with or without an account],no,no,no,no,no,yes,yes,yes,yes,yes,no
+143,"[ 4 ] - Opt-out via contacting company, [Must contact company/organization via email, phone, postal mail to opt-out]",no,no,no,no,no,yes,no,no,yes,yes,no
+144,COVID ,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+145,GDPR-Automated Processes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+146,[ 2 ] - user with an account [This data practice specifically applies to users with an account or who are registered with the website or mobile app.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+147,[ 5 ] - Privacy training [he company/organization trains its employees/third parties in applicable privacy and security practices to protect user data.],no,no,no,no,no,yes,yes,yes,yes,yes,yes
+148,[ 3 ] - for any changes,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+149,Notice - Change of Terms,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+150,First Party Collection/Use - Identifiability,no,no,yes,no,no,no,no,no,no,no,no
+151,Enforcement ,no,yes,no,no,no,no,no,no,no,no,no
+152,Notice - third parties,no,yes,no,no,no,no,no,no,no,no,no
+153,Policy Change - Change Type,no,no,yes,no,no,no,no,no,no,no,no
+154,User Visibility,yes,no,no,no,no,no,no,no,no,no,no
+155,Notice - 3rd parties,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+156,Third Party Sharing/Collection - Does/Does Not,no,no,yes,no,no,no,no,no,no,no,no
+157,[ 0 ] - no,no,no,no,no,no,yes,yes,yes,yes,yes,no
+158,Policy Change - Notification Type,no,no,yes,no,no,no,no,no,no,no,no
+159,Notice - Use of Data First Party,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
+160,"User Access, Edit and Deletion - Access Scope",no,no,yes,no,no,no,no,no,no,no,no
+161,Notice,no,yes,no,yes,no,no,no,no,no,no,no
+162,Sharing - Consent,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+163,"User Access, Edit and Deletion - Access Type",no,no,yes,no,no,no,no,no,no,no,no
+164,"[ 8 ] - User Profile [The user’s profile on the first-party website/app and its contents, e.g., data in user profile, data that user uploaded to website, user comments, user profile preferences, etc. This is common for websites/apps where users can create an account or profile, e.g., on twitter, youtube, Facebook, Amazon, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+165,Security  - Notice,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+166,Third Party Sharing/Collection - Identifiability,no,no,yes,no,no,no,no,no,no,no,no
+167,Data Retention - Retention Period,no,no,yes,no,no,no,no,no,no,no,no
+168,Notice - Action First Party,no,no,no,yes,yes,no,no,no,no,no,no
+169,[ . ] - n/a,no,no,no,no,no,yes,yes,yes,yes,yes,no
+170,"[ 7 ] - Browser/device privacy controls (if the PP specifies this as an option the user can adopt)[Policy suggests the use of browser’s or mobile device’s privacy settings, e.g., to block trackers or cookies, activate Do-Not-Track, disable location sharing, clear history, etc.]",no,no,no,no,no,yes,no,no,yes,yes,no
+171,User Choice/Control - Choice Scope,no,no,yes,no,no,no,no,no,no,no,no
+172,First Party Collection,yes,no,no,no,no,no,no,no,no,no,no
+173,Notice of Contract - PP Accessibility on Site,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+174,[ 3 ] - Advertising [To show ads that are either targeted to the specific user or not targeted],no,no,no,no,no,yes,yes,yes,yes,yes,no
+175,Notice - Consent,no,no,no,yes,no,no,no,no,no,no,no
+176,"[ 0 ] - Don't use service/feature (i.e., user must stop using service, terminate account, leave page)/mandatory [Only option is not to use the feature or service. Only select this if explicitly stated in policy (i.e., don't interpret silence as """"Don't use website or feature""]",no,no,no,no,no,yes,no,no,yes,yes,no
+177,"[ 6 ] - Personal identifier [Identifiers that uniquely identify a person,e.g., SSN, driver's license number, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+178,"[ 16 ] - Social Media Data [User profile and data from a social media website/app or other third party service to which the user gave the first party access, e.g., by connecting with Facebook, twitter, or other services. Exchanged data may include user profile, photos, comments, friends, etc.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+179,"[ 1 ] - Received/Shared with by firm/first party [The third party receives information from the first party. (i.e., the first party explicitly shares data with third-party]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+180,[ 0 ] - no notice,no,no,no,no,no,yes,yes,yes,yes,yes,no
+181,Contract - Contract,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+182,First Party Collection/Use - Personal Information Type,no,no,yes,no,no,no,no,no,no,no,no
+183,[ 4 ] A description of a Consumer’s rights to: * request disclosure of information collected; * request disclosure of information sold; * nondiscrimination relating to Consumers who exercise CCPA rights; ,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+184,"[ 7 ] - Other[An access, edit, or delete option not covered above.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+185,Enforcement  - Liability,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+186,User Choice/Control - User Type,no,no,yes,no,no,no,no,no,no,no,no
+187,[ 1 ] - perform service/functionality [collected user information is only stored as long as it is needed to perform the requested service.],no,no,no,no,no,yes,yes,yes,yes,yes,no
+188,"[ 6 ] - Third-party privacy controls, [Choices provided by a third party (e.g., privacy settings on social media site, if logged in through social media site) or industry (e.g., AdChoices Opt-out)]",no,no,no,no,no,yes,no,no,yes,yes,no
+189,Sharing - 3rd Parties,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes
+190,"[ 3 ] a list of categories (by reference to the CCPA enumerated category) of information the Business has disclosed for a business purpose,  within the preceding 12 months or, if the Business has not done so, disclosing that fact.",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+191,[ 9 ] - conducting regular data protection impact assessments [GDPR],no,no,no,no,no,yes,yes,yes,yes,yes,yes
+192,First Party Collection/Use - Purpose,no,no,yes,no,no,no,no,no,no,no,no
+193,[ 7 ] - other,no,no,no,no,no,yes,yes,yes,yes,yes,no
+194,"[ 3 ] - Profile data,[Information that the company has learned about user, even if the user did not explicitly provided it]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+195,"[ 7 ] - Service Operation and Security [For website/app operation and security, enforcement of terms of service, fraud prevention, protecting users and property, et]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+196,"[ 3 ] - Opt-out link [Link provided in privacy policy, on website, in mobile app, or in email, etc.]",no,no,no,no,no,yes,no,no,yes,yes,no
+197,[ 14 ] - Biometric information,no,no,no,no,no,yes,yes,yes,yes,yes,no
+198,Notice - Use of Data,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+199,CCPA - Notice,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+200,"[ 4 ] - Location, including bluetooth [Geo-location information (e.g., user's current location) regardless of granularity, i.e., could be exact location, ZIP code, city-level.]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+201,User Control - Accuracy,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+202,CCPA - Data Choices,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+203,"[ 7 ] - User online activities [The user's online activities on the first party website/app or other websites/apps, e.g., pages visited, time spent on pages, general user behavior online, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+204,Do Not Track - Do Not Track policy,no,no,yes,no,no,no,no,no,no,no,no
+205,"[ 3 ] - Track on first party website/app [The third party implicitly collects data about users directly on the first party website/app, typically without the user being aware of it, e.g., by tracking users with cookies, beacons, third party ad libraries, or other functionality.</description>]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+206,Third Party Sharing/Collection - User Type,no,no,yes,no,no,no,no,no,no,no,no
+207,[ 2 ] - for material terms,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+208,Third Party Sharing/Collection - Action Third Party,no,no,yes,no,no,no,no,no,no,no,no
+209,First Party Collection/Use - Choice Type,no,no,yes,no,no,no,no,no,no,no,no
+210,"[ 7 ] - Privacy/Security program, [The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees]",no,no,no,no,no,yes,yes,yes,yes,yes,yes
+211,"[ 1 ] - Basic service/ feature [Provide a service that the user explicitly requests and that is part of the website/app's basic service or functionality. Examples are watching a video, reading an article, making a purchase, creating an account, contacting the company/organization, etc]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+212,Policy Change Notification,yes,no,no,no,no,no,no,no,no,no,no
+213,"[ 4 ] - Marketing [To contact the user to offer products,services, or other promotions (e.g., send marketing emails, calling or texting user with marketing messages). Marketing typically requires the use of contact information]",no,no,no,no,no,yes,yes,yes,yes,yes,no
+214,User Control -Types of Access,no,no,no,yes,yes,yes,yes,yes,yes,yes,no
+215,PP describe new rights afforded California residen...,no,yes,no,no,no,no,no,no,no,no,no
+216,Notice - Registration and Salience,no,no,no,no,yes,no,no,no,no,no,no
+217,First Party Collection/Use - Does/Does Not,no,no,yes,no,no,no,no,no,no,no,no
