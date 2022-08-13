@@ -1,4 +1,4 @@
-,Index,Coding Question #,Question Type,Question Text,Question Response,Answer Value
+,Index,Coding Question #,Question Label,Question Text,Question Response,Answer Value
 0,0,coding3_q0,First Party Collection/Use - Does/Does Not,Use this optional attribute to denote if the policy explicitly states that something is NOT done. Defaults to Does.,[Does] - The first party does engage in the described practice.,Does
 1,0,coding3_q0,First Party Collection/Use - Does/Does Not,Use this optional attribute to denote if the policy explicitly states that something is NOT done. Defaults to Does.,[Does Not] - The first party does not engage in the described practice.,Does Not
 2,1,coding3_q1,First Party Collection/Use - Collection Mode,"Use this optional attribute to denote if the data collection performed by the first party is implicit (e.g., company collects information without user's explicit awareness) or explicit (e.g., user provides information). Defaults to “not selected.”","[Explicit] - The company/organization collects or uses information that the user explicitly provides, e.g., the user enters information in a web form.",Explicit
