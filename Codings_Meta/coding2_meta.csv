@@ -1,0 +1,222 @@
+,Index,Coding Question #,Question Label,Question Text,OTHER,FMW
+72,0,coding2_0,Notice,"Privacy Policy (PP) is accessible through a direct link from the homepage?   
+0=no
+1=yes",2 oages away from home page,False
+40,1,coding2_1,Notice - Access,"Users are asked to manifest consent to PP when they sign up for service/site via clickwrap?  Accepting PP through use is not manifested consent. 
+0=no
+1=yes",unsure,False
+26,1,coding2_1,Notice - Access,"Users are asked to manifest consent to PP when they sign up for service/site via clickwrap?  Accepting PP through use is not manifested consent. 
+0=no
+1=yes",0,False
+15,1,coding2_1,Notice - Access,"Users are asked to manifest consent to PP when they sign up for service/site via clickwrap?  Accepting PP through use is not manifested consent. 
+0=no
+1=yes",unsure,False
+24,16,coding2_16,Notice - 3rd parties,"third party tracking: site allows third parties to place advertisements that may track user behavior? 
+0=no
+1=yes
+DND='does not disclose'",False,False
+8,17,coding2_17,Notice - 3rd parties,"PP identifies recipients of shared or sold data?
+0=gen'l ID (""trusted 3rd parties""
+ does not disclose = No in this context)
+1=specific/named identification",sometimes specifies,False
+16,24,coding2_24,Sharing - 3rd parties,"Third party Sharing: Does company share PII information with third parties? 
+0=no
+1=yes",under certain circumstances,False
+68,29,coding2_29,Sharing - Consent,"What is consent mechanism for sharing/selling PII or sensitive information (except for the purpose of effecting, administering, or enforcing a transaction, sending future correspondence to user, research, internal database compilation, servicing website)? (DND = 0)
+0=mandatory
+1=opt-out
+2=opt-in
+.=N/A",Will not sell information,False
+73,33,coding2_33,Notice - Change of Terms,"How will user be given notice of change to PP?
+0=no notice
+1=""at our discretion"" or similar or ""may""
+2=link on homepage or notice+link on homepage
+3=email, notification upon signing into account, or other specific method likely to alert user
+.=n/a
+DND",,False
+17,34,coding2_34,Notice - Change of Terms,"PP requires user to explicitly assent to material changes?  
+0=no
+1=yes
+.=N/A",for changes that reduce users' rights,False
+49,35,coding2_35,Notice - Change of Terms,"PP states that material changes are retroactive?
+0=no
+1=yes (applies to data made before the change)",only with consent,False
+66,35,coding2_35,Notice - Change of Terms,"PP states that material changes are retroactive?
+0=no
+1=yes (applies to data made before the change)",Does not state,False
+50,37,coding2_37,User Control - Accuracy,"Are users allowed to access and correct personal data collected?
+0=no
+1=Can access data
+2=Can access and correct data
+3=Can access and correct data, and 3rd parties notified of correction",by request,False
+18,46,coding2_46,User Control - Termination,"What happens to data if entity ceases to exist?
+0=sold w/company or otherwise distributed/disclosed
+1=sold but given continued protection under same PP
+2=destroyed, anonymized, etc.
+DND",confidentiality ensured; notice before PII is transferred,False
+41,49,coding2_49,Data Practices  - Retention,"PP states time limit for data retention (esp when account is deleted)?
+0=no
+Yes= # of months (data is destroyed or anonymized after specific period of time)",,False
+39,49,coding2_49,Data Practices  - Retention,"PP states time limit for data retention (esp when account is deleted)?
+0=no
+Yes= # of months (data is destroyed or anonymized after specific period of time)",depends,False
+64,5,coding2_5,Notice - Type of Data Collected ,"Interactive Information Collected and Stored? (browsing behavior or search history; clickstream data)
+0=no
+1=yes
+DND='does not disclose'",False,False
+30,50,coding2_50,User Control  - Termination,"If user quits site, what happens to personal data?
+0=retained and treated as if user is still using service
+1=Retained  but modified
+2 =deleted/anonymized
+DND",Deleted except in specified circumstances,False
+19,50,coding2_50,User Control  - Termination,"If user quits site, what happens to personal data?
+0=retained and treated as if user is still using service
+1=Retained  but modified
+2 =deleted/anonymized
+DND",not super clear,False
+27,56,coding2_56,Enforcement  - Dispute Resolution,"PP has choice of law clause?  If so, which law? (Look in TOU as well)
+0=no
+1=yes",Texas,False
+20,59,coding2_59,Enforcement  - Liability,"PP disclaims liability for failure of security mesaures? 
+0=no
+1=yes",,False
+31,62,coding2_62,Privacy By Design - Oversight,"PP requires periodic complicance review of structural and technological data security measures? 
+0=no
+1=yes","does not seem to be required, but sounds like review occurs",False
+44,62,coding2_62,Privacy By Design - Oversight,"PP requires periodic complicance review of structural and technological data security measures? 
+0=no
+1=yes","""legal requirements""",False
+25,66,coding2_66,CCPA - Notice,"Has California Privacy Rights Section? 
+1=Yes, 0=No",0,False
+42,66,coding2_66,CCPA - Notice,"Has California Privacy Rights Section? 
+1=Yes, 0=No",0,False
+21,66,coding2_66,CCPA - Notice,"Has California Privacy Rights Section? 
+1=Yes, 0=No",no,False
+38,66,coding2_66,CCPA - Notice,"Has California Privacy Rights Section? 
+1=Yes, 0=No",0,False
+43,66,coding2_66,CCPA - Notice,"Has California Privacy Rights Section? 
+1=Yes, 0=No",0,False
+22,67,coding2_67,CCPA - Notice,"Directs CA Residents to that section when describing general (non-california exclusive) data practices? 
+1=yes
+ 0=no",n/a,False
+23,68,coding2_68,CCPA - Notice,"Describes to California Residents their rights under the ""shine the light"" act, explicitly?
+1=yes
+ 0=no",,False
+51,69,coding2_69,CCPA - Notice,"Personal Information Request: Offers CA residents an opportunity to request all information shared with third parties in the last year?
+1=yes
+ 0=no",,False
+45,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",1,False
+54,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",2,False
+60,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",1,False
+0,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",1,False
+32,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",2,False
+28,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",False,False
+9,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",1,False
+3,70,coding2_70,CCPA - Notice,"Offers California residents a direct link via which to contact site and request information? 
+0= contact info in different section, 1=contact info in same section, 2=direct link included in same section)",2,False
+46,74,coding2_74,CCPA - Stats,"California section wordcount
+",1589,False
+55,74,coding2_74,CCPA - Stats,"California section wordcount
+",1516,False
+61,74,coding2_74,CCPA - Stats,"California section wordcount
+",1589,False
+52,74,coding2_74,CCPA - Stats,"California section wordcount
+",1510,False
+65,74,coding2_74,CCPA - Stats,"California section wordcount
+",1589,False
+10,74,coding2_74,CCPA - Stats,"California section wordcount
+",1568,False
+4,74,coding2_74,CCPA - Stats,"California section wordcount
+",1516,False
+67,74,coding2_74,CCPA - Stats,"California section wordcount
+",448,False
+69,74,coding2_74,CCPA - Stats,"California section wordcount
+",1243,False
+29,74,coding2_74,CCPA - Stats,"California section wordcount
+",1511,False
+71,74,coding2_74,CCPA - Stats,"California section wordcount
+",False,False
+33,74,coding2_74,CCPA - Stats,"California section wordcount
+",1589,False
+56,81,coding2_81,CCPA - Data Choices,"“Do Not Sell My Personal Information.” If information is shared/sold to third parties, does the PP  allow the consumer to opt-out by providing a link on the website with that option?
+1=yes
+ no=0
+ 2=yes, but no link",Info is not sold.,False
+62,81,coding2_81,CCPA - Data Choices,"“Do Not Sell My Personal Information.” If information is shared/sold to third parties, does the PP  allow the consumer to opt-out by providing a link on the website with that option?
+1=yes
+ no=0
+ 2=yes, but no link",does not sell personal information so no opt-out choice offered,False
+34,81,coding2_81,CCPA - Data Choices,"“Do Not Sell My Personal Information.” If information is shared/sold to third parties, does the PP  allow the consumer to opt-out by providing a link on the website with that option?
+1=yes
+ no=0
+ 2=yes, but no link",N/A,False
+11,81,coding2_81,CCPA - Data Choices,"“Do Not Sell My Personal Information.” If information is shared/sold to third parties, does the PP  allow the consumer to opt-out by providing a link on the website with that option?
+1=yes
+ no=0
+ 2=yes, but no link",n/a,False
+5,81,coding2_81,CCPA - Data Choices,"“Do Not Sell My Personal Information.” If information is shared/sold to third parties, does the PP  allow the consumer to opt-out by providing a link on the website with that option?
+1=yes
+ no=0
+ 2=yes, but no link",they don't sell,False
+1,82,coding2_82,CCPA - Data Sharing,"Does the PP list the categories of personal information sold in the past 12 months?
+1=yes 0 no .=N/A",0,False
+63,82,coding2_82,CCPA - Data Sharing,"Does the PP list the categories of personal information sold in the past 12 months?
+1=yes 0 no .=N/A",0,False
+35,82,coding2_82,CCPA - Data Sharing,"Does the PP list the categories of personal information sold in the past 12 months?
+1=yes 0 no .=N/A",N/A,False
+57,82,coding2_82,CCPA - Data Sharing,"Does the PP list the categories of personal information sold in the past 12 months?
+1=yes 0 no .=N/A",.,False
+6,82,coding2_82,CCPA - Data Sharing,"Does the PP list the categories of personal information sold in the past 12 months?
+1=yes 0 no .=N/A",they don't sell,False
+47,82,coding2_82,CCPA - Data Sharing,"Does the PP list the categories of personal information sold in the past 12 months?
+1=yes 0 no .=N/A",no,False
+12,82,coding2_82,CCPA - Data Sharing,"Does the PP list the categories of personal information sold in the past 12 months?
+1=yes 0 no .=N/A",n/a,False
+48,83,coding2_83,CCPA - Data Sharing,"PP includes a list of the categories of personal information disclosed for a business purpose in the past 12 months? (Business purposes include: Auditing related to a current interaction with the consumer and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with laws and other standards)
+Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity;
+Performing services on behalf of the business, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing advertising or marketing services, providing analytic services, or providing similar services on behalf of the business;
+Debugging to identify and repair errors that impair existing intended functionality;
+Short-term, transient use, provided the personal information is not disclosed to another third party and is not used to build a profile about a consumer or otherwise alter an individual consumer’s experience outside the current interaction, including, but not limited to, the contextual customization of ads shown as part of the same interaction;
+Undertaking internal research for technological development and demonstration; and
+PP includes list of the categories of personal information disclosed for a business purpose in the past 12 monthsUndertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by the company, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by the business.
+
+1=yes 0 no .=N/A",no,False
+58,83,coding2_83,CCPA - Data Sharing,"PP includes a list of the categories of personal information disclosed for a business purpose in the past 12 months? (Business purposes include: Auditing related to a current interaction with the consumer and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with laws and other standards)
+Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity;
+Performing services on behalf of the business, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing advertising or marketing services, providing analytic services, or providing similar services on behalf of the business;
+Debugging to identify and repair errors that impair existing intended functionality;
+Short-term, transient use, provided the personal information is not disclosed to another third party and is not used to build a profile about a consumer or otherwise alter an individual consumer’s experience outside the current interaction, including, but not limited to, the contextual customization of ads shown as part of the same interaction;
+Undertaking internal research for technological development and demonstration; and
+PP includes list of the categories of personal information disclosed for a business purpose in the past 12 monthsUndertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by the company, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by the business.
+
+1=yes 0 no .=N/A",0,False
+53,84,coding2_84,CCPA - Data Choices,"PP identifies at least two methods for submitting a personal information or erasure request?(These  must include, at a minimum, a web page and a toll-free telephone number)
+0=no
+ 1= two methods identified, 2=one method identified",,False
+7,84,coding2_84,CCPA - Data Choices,"PP identifies at least two methods for submitting a personal information or erasure request?(These  must include, at a minimum, a web page and a toll-free telephone number)
+0=no
+ 1= two methods identified, 2=one method identified",,False
+13,84,coding2_84,CCPA - Data Choices,"PP identifies at least two methods for submitting a personal information or erasure request?(These  must include, at a minimum, a web page and a toll-free telephone number)
+0=no
+ 1= two methods identified, 2=one method identified",no toll-free number,False
+70,84,coding2_84,CCPA - Data Choices,"PP identifies at least two methods for submitting a personal information or erasure request?(These  must include, at a minimum, a web page and a toll-free telephone number)
+0=no
+ 1= two methods identified, 2=one method identified",2,False
+36,84,coding2_84,CCPA - Data Choices,"PP identifies at least two methods for submitting a personal information or erasure request?(These  must include, at a minimum, a web page and a toll-free telephone number)
+0=no
+ 1= two methods identified, 2=one method identified",,False
+59,85,coding2_85,PP describe new rights afforded California residen...,"PP describe new rights afforded California residents. (The description should address all of the above new rights. It should also indicate that the consumer may only make a personal information request twice in a 12-month period, that the business will need to collect information from the requesting party so that it can verify their identity, and that the business will respond within 45 days of receiving a personal information request.
+",0,False
+2,85,coding2_85,PP describe new rights afforded California residen...,"PP describe new rights afforded California residents. (The description should address all of the above new rights. It should also indicate that the consumer may only make a personal information request twice in a 12-month period, that the business will need to collect information from the requesting party so that it can verify their identity, and that the business will respond within 45 days of receiving a personal information request.
+",1,False
+14,85,coding2_85,PP describe new rights afforded California residen...,"PP describe new rights afforded California residents. (The description should address all of the above new rights. It should also indicate that the consumer may only make a personal information request twice in a 12-month period, that the business will need to collect information from the requesting party so that it can verify their identity, and that the business will respond within 45 days of receiving a personal information request.
+",yes,False
+37,85,coding2_85,PP describe new rights afforded California residen...,"PP describe new rights afforded California residents. (The description should address all of the above new rights. It should also indicate that the consumer may only make a personal information request twice in a 12-month period, that the business will need to collect information from the requesting party so that it can verify their identity, and that the business will respond within 45 days of receiving a personal information request.
+",Not all rights,False

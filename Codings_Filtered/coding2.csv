@@ -1,0 +1,19 @@
+,Index,Coding Question #,Question Label,Question Text,Question Response,Answer Value,match.com,Google (2018 archive),Google,Twitch.tv,Facebook (2018 archive)
+20,7,coding2_q7,Notice - Type of Data Collected ,Content Information Collected and Stored? (contents of personal communications; stored documents or media) ,DND='does not disclose',DND,0,1,0,0,0
+43,16,coding2_q16,Notice - 3rd parties,third party tracking: site allows third parties to place advertisements that may track user behavior? ,DND='does not disclose',DND,1,0,0,0,1
+58,21,coding2_q21,Sharing - privacy practices,Are third parties bound by the same privacy policy?,.=n/a,.,1,0,0,0,0
+78,29,coding2_q29,Sharing - Consent,"What is consent mechanism for sharing/selling PII or sensitive information (except for the purpose of effecting, administering, or enforcing a transaction, sending future correspondence to user, research, internal database compilation, servicing website)? (DND = 0)",.=N/A,.,3,0,0,0,2
+82,30,coding2_q30,Sharing - Consent,"What is consent mechanism for sharing/selling non-PII or sensitive information to entities that aren't service providers (except for the purpose of effecting, administering, or enforcing a transaction, sending future correspondence to user, research, internal database compilation, servicing website)? (DND = 0)",.=N/A,.,3,1,0,0,2
+88,32,coding2_q32,Notice - Change of Terms,Users will be alerted to material changes to the PP?  (simply posting new policy constitutes no notice). ,DND,DND,1,0,0,0,1
+93,33,coding2_q33,Notice - Change of Terms,How will user be given notice of change to PP?,.=n/a,.,1,0,0,0,0
+94,33,coding2_q33,Notice - Change of Terms,How will user be given notice of change to PP?,DND,DND,3,0,0,0,4
+111,39,coding2_q39,User Control - Ownership,Ownership Rights of User Information Provided (look in terms of use),DND,DND,0,2,0,0,2
+127,46,coding2_q46,User Control - Termination,What happens to data if entity ceases to exist?,DND,DND,2,0,0,0,0
+133,49,coding2_q49,Data Practices  - Retention,PP states time limit for data retention (esp when account is deleted)?,Yes= # of months (data is destroyed or anonymized after specific period of time),Yes,0,1,0,0,5
+137,50,coding2_q50,User Control  - Termination,"If user quits site, what happens to personal data?",DND,DND,0,1,0,0,1
+159,61,coding2_q61,Enforcement  - Oversight,What privacy seal/certification/industry oversight organization does PP claim?,No=.,No,1,5,0,0,2
+160,61,coding2_q61,Enforcement  - Oversight,What privacy seal/certification/industry oversight organization does PP claim?,Yes=Name of certification or seal,Yes,1,2,0,0,1
+186,74,coding2_q74,CCPA - Stats,California section wordcount,,,2,1,0,0,0
+202,81,coding2_q81,CCPA - Data Choices,"“Do Not Sell My Personal Information.” If information is shared/sold to third parties, does the PP  allow the consumer to opt-out by providing a link on the website with that option?",N/A,N/A,2,1,0,0,0
+205,82,coding2_q82,CCPA - Data Sharing,Does the PP list the categories of personal information sold in the past 12 months?,.=N/A,.,0,1,0,0,0
+208,83,coding2_q83,CCPA - Data Sharing,"PP includes a list of the categories of personal information disclosed for a business purpose in the past 12 months? (Business purposes include: Auditing related to a current interaction with the consumer and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with laws and other standards)",.=N/A,.,0,1,0,0,0
